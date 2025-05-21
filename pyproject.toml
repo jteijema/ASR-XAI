@@ -1,0 +1,33 @@
+[project]
+name = "asr-xai"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "abcplus>=0.1.0",
+    "asreview>=2.0.2",
+    "asreview-dory>=1.0",
+    "datasets>=3.6.0",
+    "flair>=0.15.1",
+    "iprogress>=0.4",
+    "ipykernel>=6.29.5",
+    "ipython>=9.2.0",
+    "ipywidgets>=8.1.7",
+    "matplotlib>=3.10.3",
+    "nltk>=3.9.1",
+    "numpy>=2.2.6",
+    "scikit-learn>=1.6.1",
+    "scipy>=1.15.3",
+    "seaborn>=0.13.2",
+    "synergy-dataset>=1.2",
+    "torch>=2.7.0",
+    "tqdm>=4.67.1",
+    "transformers>=4.51.3",
+    "typing>=3.10.0.0",
+    "wordcloud>=1.9.4",
+]
+
+[tool.ruff.format]
+quote-style = "double"
+line-ending = "auto"
