@@ -4,9 +4,9 @@ ASR-XAI is a project focused on explainable artificial intelligence (XAI) for au
 
 ## Features
 
-- Tools and methods for interpreting ASR models
+- Tools and methods for interpreting ASReview models
 - Visualization of model decisions
-- Support for popular ASR frameworks
+- Support for popular ASReview Framework
 
 ## Installation
 
