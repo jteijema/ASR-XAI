@@ -1,5 +1,7 @@
 # ASR-XAI
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16797395.svg)](https://doi.org/10.5281/zenodo.16797395)
+
 ASR-XAI is a project focused on explainable artificial intelligence (XAI) for automatic speech recognition (ASR) systems.
 
 ## Features
